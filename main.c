@@ -2,7 +2,7 @@
 
 int main() {
     printf("C calisiyor!\n");
-    printf("spam commit denemesi\n");
+    printf("spa1m commit denemesi\n");
     return 0;
 }
 
