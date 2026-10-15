@@ -1,5 +1,5 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/arbash/dev/projects/personal/c-training-env/main'
+binary-path:     '/Users/arbash/dev/projects/personal/c-dsa-git/main'
 relocations:     []
 ...
